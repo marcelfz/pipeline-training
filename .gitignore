@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Saída gerada pela pipeline
+data_processed/dataset_consolidado.csv
